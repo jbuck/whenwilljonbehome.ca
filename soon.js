@@ -1,5 +1,5 @@
 (function() {
-  var home_time = moment("2013-09-28 20:00 -0400", "YYYY-MM-DD HH:mm ZZ"),
+  var home_time = moment("2013-10-07 20:00 -0400", "YYYY-MM-DD HH:mm ZZ"),
       now = moment(),
       time;
 
